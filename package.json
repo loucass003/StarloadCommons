@@ -1,0 +1,7 @@
+{
+  "name": "com.starload.starload-commons",
+  "version": "1.0.0",
+  "displayName": "Starload Commons",
+  "type": "library",
+  "description": "Core library for common stuff between Starloader client/server"
+}
